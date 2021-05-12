@@ -43,7 +43,7 @@
         "json-stable-stringify": "^1.0.1",
         "lodash": "^4.17.13",
         "memory-cache": "^0.2.0",
-        "merge": ">=1.2.1",
+        "merge": ">=2.1.1",
         "mongoose": "^5.4.19",
         "node-sass-middleware": "^0.11.0",
         "passport": "^0.4.0",
